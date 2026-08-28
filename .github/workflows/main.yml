@@ -17,3 +17,6 @@ jobs:
 
       - name: Show current date
         run: date
+
+      - name: Break it
+        run: exit 1
