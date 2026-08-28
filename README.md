@@ -49,7 +49,6 @@
 <kbd>[<img title="Twi (Ghana)" alt="Twi (Ghana)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gh.svg" width="22">](docs/translations/README.gh.md)</kbd>
 <kbd>[<img title="Polski" alt="Polski" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/pl.svg" width="22">](docs/translations/README.pl.md)</kbd>
 <kbd>[<img title="Português (Portugal)" alt="Português (Portugal)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/pt.svg" width="22">](docs/translations/README.pt-pt.md)</kbd>
-<kbd>[<img title="Русский язык" alt="Русский язык" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ru.svg" width="22">](docs/translations/README.ru.md)</kbd>
 <kbd>[<img title="العربية" alt="العربية" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/sa.svg" width="22">](docs/translations/README.ar.md)</kbd>
 <kbd>[<img title="Svenska" alt="Svenska" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/se.svg" width="22">](docs/translations/README.se.md)</kbd>
 <kbd>[<img title="Slovenčina" alt="Slovenčina" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/sk.svg" width="22">](docs/translations/README.slk.md)</kbd>
